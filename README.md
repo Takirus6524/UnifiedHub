@@ -2,6 +2,20 @@
 
 A powerful, feature-rich Tkinter-based dashboard that integrates Google services, Discord, AI, weather, news, search engines, and much more—all in one intuitive interface.
 
+## Downloads
+
+- Latest release (Linux/macOS/Windows): visit GitHub Releases
+  - Direct link: [github.com/your-org/UnifiedHub/releases/latest](https://github.com/your-org/UnifiedHub/releases/latest)
+    - Download the artifact for your platform from the Releases page
+- Local builds (after running `python build.py`):
+  - **Linux**: [`dist/linux/UnifiedHub/UnifiedHub`](dist/linux/UnifiedHub/UnifiedHub)
+    - **macOS**: [`dist/macos/UnifiedHub.app`](dist/macos/UnifiedHub.app)
+    - **Windows**: [`dist/windows/UnifiedHub/UnifiedHub.exe`](dist/windows/UnifiedHub/UnifiedHub.exe)
+
+Note: On some systems, clicking local links may open the folder rather than execute the app. Prefer running from terminal or your file explorer.
+
+- Portable builds are located under `dist/` when you build locally (see Installation & Running)
+
 ## Features
 
 ### Google Integration
