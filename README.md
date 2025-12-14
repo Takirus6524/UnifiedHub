@@ -5,7 +5,7 @@ A powerful, feature-rich Tkinter-based dashboard that integrates Google services
 ## Downloads
 
 - Latest release (Linux/macOS/Windows): visit GitHub Releases
-  - Direct link: [github.com/your-org/UnifiedHub/releases/latest](https://github.com/your-org/UnifiedHub/releases/latest)
+  - Direct link: [github.com/Takirus6524/UnifiedHub/releases/latest](https://github.com/Takirus6524/UnifiedHub/releases/latest)
     - Download the artifact for your platform from the Releases page
 - Local builds (after running `python build.py`):
   - **Linux**: [`distr/linux/UnifiedHub`](distr/linux/UnifiedHub)
