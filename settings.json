@@ -1,0 +1,8 @@
+{
+  "default_search_engine": "Google",
+  "dark_mode": false,
+  "font_size": 10,
+  "verify_ssl": false,
+  "results_limit": 10,
+  "theme_accent": "#3498db"
+}

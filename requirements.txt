@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+requests==2.31.0
+mistralai==1.9.11
+psutil==6.0.0
+Pillow==10.1.0
+qrcode[pil]==7.4.2
+tkinterweb==0.5.1
